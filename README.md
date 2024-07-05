@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<div align="center">
+  <a href="https://github.com/KULLANICI_ADINIZ">
+  <img height="150em" src="https://github-readme-stats.berkayyildiz.dev/api?username=KULLANICI_ADINIZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.berkayyildiz.dev/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</div>
+
+
+
 <!--
 **dengizfth/dengizfth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
