@@ -1,16 +1,17 @@
 
-## İstatistiklerim
 
 <div align="center">
   <a href="https://github.com/dengizfth">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dengizfth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dengizfth&show_icons=true&theme=tokyonight"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengizfth&layout=compact&langs_count=8&theme=dracula"/>
+    
   </a>
 </div>
 
 
 
 <!--
+## İstatistiklerim
 
 ## Hi there 👋
 **dengizfth/dengizfth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
